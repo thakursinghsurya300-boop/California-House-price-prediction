@@ -1,0 +1,7 @@
+## Key Learnings
+
+- Performed Exploratory Data Analysis (EDA)
+- Understood feature-target relationships
+- Built a Random Forest Regression model
+- Evaluated regression models using MAE, RMSE and R²
+- Predicted house prices for new unseen data
