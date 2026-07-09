@@ -45,6 +45,7 @@ The objective of this project is to build a machine learning model capable of pr
 - NumPy
 - Matplotlib
 - Scikit-learn
+- Streamlit
 
 ---
 
@@ -134,7 +135,6 @@ California-House-Price-Prediction/
 - Feature Importance Visualization
 - XGBoost Regression
 - Streamlit Web Application
-- Model Deployment
 
 ---
 
@@ -148,6 +148,7 @@ California-House-Price-Prediction/
 - Random Forest Regression
 - Model Evaluation
 - Python Programming
+- App deployement
 
 ---
 
