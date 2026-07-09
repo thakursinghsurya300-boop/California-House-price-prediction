@@ -13,7 +13,7 @@ https://ca-house-value-predictor.streamlit.app/
 
 ### Home Page
 
-![Home Page](images/home.png)
+![Home Page](Homepage.png)
 
 ### Prediction Result
 
